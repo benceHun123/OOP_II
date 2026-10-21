@@ -1,0 +1,7 @@
+S:\Visual studio\OOP_II\bin\Debug\OOP_II.exe.config
+S:\Visual studio\OOP_II\bin\Debug\OOP_II.exe
+S:\Visual studio\OOP_II\bin\Debug\OOP_II.pdb
+S:\Visual studio\OOP_II\obj\Debug\OOP_II.csproj.AssemblyReference.cache
+S:\Visual studio\OOP_II\obj\Debug\OOP_II.csproj.CoreCompileInputs.cache
+S:\Visual studio\OOP_II\obj\Debug\OOP_II.exe
+S:\Visual studio\OOP_II\obj\Debug\OOP_II.pdb
